@@ -1,0 +1,13 @@
+opencv-python
+scenedetect[opencv]
+ultralytics
+torch
+torchvision
+tqdm
+imageio
+numpy
+ffmpeg-python
+deep-sort-realtime
+scipy
+
+
