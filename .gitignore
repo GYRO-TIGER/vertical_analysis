@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# Large generated files
+outputs/
+*.gif
+*.mp4
+
+# OS / IDE
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+models/*.pt
